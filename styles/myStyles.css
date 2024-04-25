@@ -1,0 +1,36 @@
+.background{
+    background-image: url(../images/jokes-rvl3s247n939kcpm.jpg);
+    /* color: red; */
+}
+
+
+.jokePos{
+    display: flex;
+    justify-content: start;
+}
+
+.buttonPosition{
+    display: flex;
+    justify-content: center;
+    background-color: green;
+}
+
+.displayColor{
+    color: yellowgreen;
+}
+
+
+.cardPos{
+    display: flex;
+    justify-content: start;
+    padding-top: 5rem;
+  
+}
+
+.cardShadow{
+    box-shadow: 0px 3px 15px rgba(112, 222, 39);
+}
+
+.cardConSize{
+    
+}
